@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Game Yan_ken_po  
+ Prácticas de condicionales en JavaScript
